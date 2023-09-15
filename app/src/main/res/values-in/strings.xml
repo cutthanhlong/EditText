@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name" translatable="false">Name Art Maker</string>
-    <string name="Edit">Sunting</string>
-    <string name="Editor">Editor</string>
     <string name="Add_Text">Teks</string>
     <string name="Backgrounds">Latar belakang</string>
     <string name="Stickers">Stiker</string>
@@ -11,19 +9,12 @@
     <string name="Paint">Cat</string>
 
     <string name="Yes">Ya</string>
-    <string name="No">TIDAK</string>
     <string name="Close">Menutup</string>
     <string name="App_not_found">Aplikasi tidak ditemukan.</string>
-    <string name="Created_by">Dibuat oleh</string>
 
-    <string name="erase_msg">Anda yakin ingin menghapus pekerjaan Anda?</string>
     <string name="cancel_msg">Apakah Anda yakin ingin meninggalkan pekerjaan ini?</string>
-    <string name="Font">Fon</string>
     <string name="Gradient">Gradien</string>
     <string name="Color">Warna</string>
-    <string name="Pattern">Pola</string>
-    <string name="Shadow">Bayangan</string>
-    <string name="image">gambar</string>
     <string name="Image1">Gambar</string>
     <string name="Exporting_Image...">Mengekspor Gambar...</string>
 

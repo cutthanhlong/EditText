@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name" translatable="false">Name Art Maker</string>
-    <string name="Edit">संपादन करना</string>
-    <string name="Editor">संपादक</string>
     <string name="Add_Text">मूलपाठ</string>
     <string name="Backgrounds">पृष्ठभूमि</string>
     <string name="Stickers">कँटिया</string>
@@ -11,19 +9,12 @@
     <string name="Paint">रँगना</string>
 
     <string name="Yes">हाँ</string>
-    <string name="No">नहीं</string>
     <string name="Close">बंद करना</string>
     <string name="App_not_found">ऐप नहीं मिला।</string>
-    <string name="Created_by">द्वारा बनाएं</string>
 
-    <string name="erase_msg">क्या आप वाकई अपना काम मिटाना चाहते हैं?</string>
     <string name="cancel_msg">क्या आप वाकई इस काम को छोड़ना चाहते हैं?</string>
-    <string name="Font">फ़ॉन्ट</string>
     <string name="Gradient">ढाल</string>
     <string name="Color">रंग</string>
-    <string name="Pattern">नमूना</string>
-    <string name="Shadow">छाया</string>
-    <string name="image">छवि</string>
     <string name="Image1">छवि</string>
     <string name="Exporting_Image...">छवि निर्यात की जा रही है...</string>
 

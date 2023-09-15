@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name" translatable="false">Name Art Maker</string>
-    <string name="Edit">编辑</string>
-    <string name="Editor">编辑</string>
     <string name="Add_Text">文本</string>
     <string name="Backgrounds">背景</string>
     <string name="Stickers">贴纸</string>
@@ -11,19 +9,12 @@
     <string name="Paint">画</string>
 
     <string name="Yes">是的</string>
-    <string name="No">不</string>
     <string name="Close">关闭</string>
     <string name="App_not_found">找不到应用程序。</string>
-    <string name="Created_by">创建者</string>
 
-    <string name="erase_msg">您确定要删除您的工作吗？</string>
     <string name="cancel_msg">您确定要离开这项工作吗？</string>
-    <string name="Font">字体</string>
     <string name="Gradient">坡度</string>
     <string name="Color">颜色</string>
-    <string name="Pattern">图案</string>
-    <string name="Shadow">阴影</string>
-    <string name="image">图像</string>
     <string name="Image1">图像</string>
     <string name="Exporting_Image...">正在导出图像...</string>
 

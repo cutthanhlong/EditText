@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="App_Covers">
-        <item>fondpaper_cover</item>
-    </string-array>
-    <string-array name="Backgrounds_tabmenu">
-        <item>Backgrounds</item>
-        <item>Gradients</item>
-        <item>Colors</item>
-    </string-array>
     <string-array name="Colors">
         <item>\#FFFFFF</item>
         <item>\#FFFFCC</item>
@@ -294,20 +286,5 @@
         <item>\#AFC8E8 #F3B8D5 #97FFBB</item>
         <item>\#484AD7 #EA82BB #F8E1BB</item>
         <item>\#FBC4B8 #F088AE #62E4E5</item>
-    </string-array>
-    <string-array name="Stickers_tabmenu">
-        <item>Emoji</item>
-        <item>Halloween</item>
-        <item>Holiday</item>
-        <item>Love</item>
-        <item>Couple</item>
-        <item>Butterfly</item>
-        <item>Animal</item>
-        <item>Food</item>
-        <item>Extra</item>
-        <item>Sport</item>
-        <item>Feather</item>
-        <item>Stroke</item>
-        <item>Dot</item>
     </string-array>
 </resources>

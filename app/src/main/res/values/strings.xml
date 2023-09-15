@@ -1,8 +1,6 @@
 <resources>
     <string name="app_name" translatable="false">Name Art Maker</string>
 
-    <string name="Edit">Edit</string>
-    <string name="Editor">Editor</string>
     <string name="Add_Text">Text</string>
     <string name="Backgrounds">Background</string>
     <string name="Stickers">Sticker</string>
@@ -11,19 +9,12 @@
     <string name="Paint">Paint</string>
 
     <string name="Yes">Yes</string>
-    <string name="No">No</string>
     <string name="Close">Close</string>
     <string name="App_not_found">App not found.</string>
-    <string name="Created_by">Create by </string>
 
-    <string name="erase_msg">Are you sure you want to erase your work?</string>
     <string name="cancel_msg">Are you sure you want to leave this work?</string>
-    <string name="Font">Font</string>
     <string name="Gradient">Gradient</string>
     <string name="Color">Color</string>
-    <string name="Pattern">Pattern</string>
-    <string name="Shadow">Shadow</string>
-    <string name="image">image</string>
     <string name="Image1">Image</string>
     <string name="Exporting_Image...">Exporting Image...</string>
 

@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name" translatable="false">Name Art Maker</string>
-    <string name="Edit">Bearbeiten</string>
-    <string name="Editor">Editor</string>
     <string name="Add_Text">Text</string>
     <string name="Backgrounds">Hintergrund</string>
     <string name="Stickers">Aufkleber</string>
@@ -11,19 +9,12 @@
     <string name="Paint">Malen</string>
 
     <string name="Yes">Ja</string>
-    <string name="No">NEIN</string>
     <string name="Close">Schließen</string>
     <string name="App_not_found">Anwendung nicht gefunden.</string>
-    <string name="Created_by">Erstellen von</string>
 
-    <string name="erase_msg">Möchten Sie Ihre Arbeit wirklich löschen?</string>
     <string name="cancel_msg">Möchten Sie diese Arbeit wirklich verlassen?</string>
-    <string name="Font">Schriftart</string>
     <string name="Gradient">Gradient</string>
     <string name="Color">Farbe</string>
-    <string name="Pattern">Muster</string>
-    <string name="Shadow">Schatten</string>
-    <string name="image">Bild</string>
     <string name="Image1">Bild</string>
     <string name="Exporting_Image...">Bild wird exportiert...</string>
 
