@@ -1,0 +1,122 @@
+<resources>
+    <string name="app_name" translatable="false">Name Art Maker</string>
+
+    <string name="Edit">Edit</string>
+    <string name="Editor">Editor</string>
+    <string name="Add_Text">Text</string>
+    <string name="Backgrounds">Background</string>
+    <string name="Stickers">Sticker</string>
+    <string name="Magic_Paint">Magic Paint</string>
+    <string name="Type_here">Type here</string>
+    <string name="Paint">Paint</string>
+
+    <string name="Yes">Yes</string>
+    <string name="No">No</string>
+    <string name="Close">Close</string>
+    <string name="App_not_found">App not found.</string>
+    <string name="Created_by">Create by </string>
+
+    <string name="erase_msg">Are you sure you want to erase your work?</string>
+    <string name="cancel_msg">Are you sure you want to leave this work?</string>
+    <string name="Font">Font</string>
+    <string name="Gradient">Gradient</string>
+    <string name="Color">Color</string>
+    <string name="Pattern">Pattern</string>
+    <string name="Shadow">Shadow</string>
+    <string name="image">image</string>
+    <string name="Image1">Image</string>
+    <string name="Exporting_Image...">Exporting Image...</string>
+
+    <string name="Create_New">Create New</string>
+    <string name="My_Gallery">My Gallery</string>
+    <string name="Setting">Setting</string>
+
+    <string name="Language">Language</string>
+    <string name="Rate">Rate</string>
+    <string name="Share">Share</string>
+    <string name="More_app">More App</string>
+    <string name="About">About</string>
+    <string name="Item_English">English</string>
+
+    <string name="Edit_Text">Edit Text</string>
+    <string name="Your_gallery_is_empty">Your gallery is empty</string>
+
+    <string name="Cancle">Cancel</string>
+    <string name="Ok">OK</string>
+    <string name="Choose_Paint_Color">Choose Paint Color</string>
+
+    <string name="Emojie">Emoji</string>
+    <string name="Alphabet">Alphabet</string>
+    <string name="Planner">Planner</string>
+    <string name="Love">Love</string>
+    <string name="Food">Food</string>
+    <string name="Holiday">Holiday</string>
+    <string name="Animal">Animal</string>
+
+    <string name="Line">Line</string>
+    <string name="Radial">Radial</string>
+    <string name="Sweep">Sweep</string>
+
+    <string name="Normal">Normal</string>
+    <string name="Emboss">Emboss</string>
+    <string name="Deboss">Deboss</string>
+    <string name="Next">Next</string>
+    <string name="delete">Delete</string>
+    <string name="Quit">Quit</string>
+    <string name="Image_Saved">Image Saved</string>
+    <string name="get_started">Get Started</string>
+    <string name="You_can_use_magic">You can use magic paint to make creative effects for your design.</string>
+    <string name="You_can_add_favorite">You can add favorite typography with multiple fonts and creative effects.</string>
+    <string name="Multiple_Backgrounds">Multiple Backgrounds</string>
+    <string name="You_can_choose_aesthetic">You can choose aesthetic backgrounds from name art maker’s gallery.</string>
+    <string name="this_action_may_contain_advertising">This action may contain advertising</string>
+    <string name="version">Version </string>
+    <string name="Privacy_Policy"><u>Privacy Policy</u></string>
+    <string name="skip"><u>Skip</u></string>
+    <string name="delete1">Delete?</string>
+    <string name="Confirm_Quit">Confirm Quit?</string>
+    <string name="are_you">Are you sure you want to delete?</string>
+    <string name="Are_you_sure_want_to_quit_app">Are you sure want to quit app?</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete_success">Delete success</string>
+    <string name="selected">Select all</string>
+    <string name="Reset">Reset</string>
+    <string name="Back_home">Back home</string>
+    <string name="Crop_Image">Crop Image</string>
+    <string name="all">All</string>
+    <string name="Create_Text">Create Text</string>
+    <string name="camera">Camera</string>
+    <string name="screenshots">Screenshots</string>
+    <string name="downloads">Downloads</string>
+    <string name="Blur">Blur</string>
+    <string name="Distance">Distance</string>
+    <string name="Scale">Scale</string>
+    <string name="Image">Image</string>
+    <string name="Opacity">Opacity</string>
+    <string name="Select_Image">Select Image</string>
+    <string name="Are_you">Are you sure want to reset your drawing?</string>
+
+    <string name="If_you_enjoy_this_would_youmind_rating_us_on_the_Google_Play_then">If you enjoy this Name Art Maker, would \nyou mind rating us on the Google Play, then?</string>
+    <string name="Your_opinion_matter_to_us">Your opinion matter to us</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="Not_now">Not now</string>
+    <string name="Thankyou">Thank you</string>
+    <string name="Send_Email">Send Email</string>
+    <string name="There_is_no">There is no</string>
+    <string name="thanks_for_watching">Thanks for watching</string>
+    <string name="Blank_image">Please add text or stickers.</string>
+    <string name="Not_change_background">Not change background</string>
+    <string name="Change_background_gradient_success">Change background gradient success.</string>
+    <string name="Change_background_color_success">Change background color success.</string>
+    <string name="Change_image_success">Change image success.</string>
+    <string name="Please_choose_gradient_first">Please choose gradient first</string>
+    <string name="Please_choose_gradient_text_first">Please choose gradient text first</string>
+    <string name="Please_choose_pattern_first">Please choose pattern first</string>
+    <string name="You_should_add_text_first">You should add text first.</string>
+    <string name="Error">Error: The photo in the library appears to be corrupted. Please check. Thank you!</string>
+
+    <string name="Export">Export</string>
+    <string name="Unselect">Unselect</string>
+    <string name="Sample">Sample</string>
+
+</resources>

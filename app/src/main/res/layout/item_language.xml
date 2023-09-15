@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layoutItem"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/neutral_trang"
+    style="@style/ThemeLanguage"
+    android:orientation="vertical"
+    android:paddingHorizontal="16dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp">
+
+        <ImageView
+            android:id="@+id/icLang"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_centerVertical="true"
+            android:src="@drawable/ic_lang_en" />
+
+        <TextView
+            android:id="@+id/tvLang"
+            style="@style/txt_language"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_marginStart="10dp"
+            android:layout_toStartOf="@+id/rdbCheck"
+            android:layout_toEndOf="@+id/icLang"
+            android:paddingTop="2dp"
+            android:text="English" />
+
+        <RadioButton
+            android:id="@+id/rdbCheck"
+            android:button="@drawable/custom_radio_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:checked="true" />
+    </RelativeLayout>
+
+    <View
+        android:id="@+id/linesItem"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginTop="16dp"
+        android:background="#C1C1C1" />
+</LinearLayout>

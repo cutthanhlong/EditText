@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Name Art Maker</string>
+    <string name="Edit">संपादन करना</string>
+    <string name="Editor">संपादक</string>
+    <string name="Add_Text">मूलपाठ</string>
+    <string name="Backgrounds">पृष्ठभूमि</string>
+    <string name="Stickers">कँटिया</string>
+    <string name="Magic_Paint">मैजिक पेंट</string>
+    <string name="Type_here">यहाँ टाइप करें</string>
+    <string name="Paint">रँगना</string>
+
+    <string name="Yes">हाँ</string>
+    <string name="No">नहीं</string>
+    <string name="Close">बंद करना</string>
+    <string name="App_not_found">ऐप नहीं मिला।</string>
+    <string name="Created_by">द्वारा बनाएं</string>
+
+    <string name="erase_msg">क्या आप वाकई अपना काम मिटाना चाहते हैं?</string>
+    <string name="cancel_msg">क्या आप वाकई इस काम को छोड़ना चाहते हैं?</string>
+    <string name="Font">फ़ॉन्ट</string>
+    <string name="Gradient">ढाल</string>
+    <string name="Color">रंग</string>
+    <string name="Pattern">नमूना</string>
+    <string name="Shadow">छाया</string>
+    <string name="image">छवि</string>
+    <string name="Image1">छवि</string>
+    <string name="Exporting_Image...">छवि निर्यात की जा रही है...</string>
+
+    <string name="Create_New">नया निर्माण</string>
+    <string name="My_Gallery">मेरी गैलरी</string>
+    <string name="Setting">सेटिंग</string>
+
+    <string name="Language">भाषा</string>
+    <string name="Rate">दर</string>
+    <string name="Share">शेयर करना</string>
+    <string name="More_app">और ज्यादा एप्लीकेशन</string>
+    <string name="About">के बारे में</string>
+    <string name="Item_English">अंग्रेज़ी</string>
+
+    <string name="Edit_Text">संमपादित पाठ</string>
+    <string name="Your_gallery_is_empty">आपकी गैलरी खाली है</string>
+
+    <string name="Cancle">रद्द करना</string>
+    <string name="Ok">ठीक</string>
+    <string name="Choose_Paint_Color">पेंट का रंग चुनें</string>
+
+    <string name="Emojie">इमोजी</string>
+    <string name="Alphabet">वर्णमाला</string>
+    <string name="Planner">योजनाकर्ता</string>
+    <string name="Love">प्यार</string>
+    <string name="Food">खाना</string>
+    <string name="Holiday">छुट्टी</string>
+    <string name="Animal">जानवर</string>
+
+    <string name="Line">पंक्ति</string>
+    <string name="Radial">रेडियल</string>
+    <string name="Sweep">झाड़ू  लगाना</string>
+
+    <string name="Normal">सामान्य</string>
+    <string name="Emboss">उभारदार नक्क़ाशी करना</string>
+    <string name="Deboss">डेबॉस</string>
+    <string name="Next">अगला</string>
+    <string name="delete">मिटाना</string>
+    <string name="Quit">छोड़ना</string>
+    <string name="Image_Saved">छवि सहेजी गई</string>
+    <string name="get_started">शुरू हो जाओ</string>
+    <string name="You_can_use_magic">आप अपने डिजाइन के लिए रचनात्मक प्रभाव बनाने के लिए मैजिक पेंट का उपयोग कर सकते हैं।</string>
+    <string name="You_can_add_favorite">आप कई फोंट और रचनात्मक प्रभावों के साथ पसंदीदा टाइपोग्राफी जोड़ सकते हैं।</string>
+    <string name="Multiple_Backgrounds">एकाधिक पृष्ठभूमि</string>
+    <string name="You_can_choose_aesthetic">आप नाम कला निर्माता की गैलरी से सौंदर्य पृष्ठभूमि चुन सकते हैं।</string>
+    <string name="this_action_may_contain_advertising">इस क्रिया में विज्ञापन हो सकता है</string>
+    <string name="version">संस्करण</string>
+    <string name="Privacy_Policy"><u>गोपनीयता नीति</u></string>
+    <string name="skip"><u>छोड़ें</u></string>
+    <string name="delete1">मिटाना?</string>
+    <string name="Confirm_Quit">छोड़ने की पुष्टि करें?</string>
+    <string name="are_you">क्या आप आश्वस्त है कि आपको डिलीट करना है?</string>
+    <string name="Are_you_sure_want_to_quit_app">क्या आप वाकई ऐप छोड़ना चाहते हैं?</string>
+    <string name="cancel">रद्द करना</string>
+    <string name="delete_success">सफलता हटाएं</string>
+    <string name="selected">सबका चयन करें</string>
+    <string name="Reset">रीसेट</string>
+    <string name="Back_home">वापस घर</string>
+    <string name="Crop_Image">छवि सुधारें # क्रॉप इमेज फोटो एडिटर</string>
+    <string name="all">सभी</string>
+    <string name="Create_Text">पाठ बनाएँ</string>
+    <string name="camera">कैमरा</string>
+    <string name="screenshots">स्क्रीनशॉट</string>
+    <string name="downloads">डाउनलोड</string>
+    <string name="Blur">कलंक</string>
+    <string name="Distance">दूरी</string>
+    <string name="Scale">पैमाना</string>
+    <string name="Image">छवि</string>
+    <string name="Opacity">अस्पष्टता</string>
+    <string name="Select_Image">छवि चुने</string>
+    <string name="Are_you">क्या आप वाकई अपनी आरेखण को रीसेट करना चाहते हैं?</string>
+
+    <string name="If_you_enjoy_this_would_youmind_rating_us_on_the_Google_Play_then">यदि आप इस नेम आर्ट मेकर का आनंद लेते हैं, तो क्या आप हमें Google Play पर रेटिंग देना चाहेंगे?</string>
+    <string name="Your_opinion_matter_to_us">आपकी राय हमारे लिए मायने रखती है</string>
+    <string name="rate_us">हमें रेटिंग दें</string>
+    <string name="Not_now">अभी नहीं</string>
+    <string name="Thankyou">धन्यवाद</string>
+    <string name="Send_Email">ईमेल भेजें</string>
+    <string name="There_is_no">कोई नहीं है</string>
+    <string name="thanks_for_watching">देखने के लिए धन्यवाद</string>
+    <string name="Blank_image">कृपया पाठ या स्टिकर जोड़ें।</string>
+    <string name="Not_change_background">पृष्ठभूमि न बदलें</string>
+    <string name="Change_background_gradient_success">पृष्ठभूमि ढाल सफलता बदलें।</string>
+    <string name="Change_background_color_success">पृष्ठभूमि का रंग बदलें सफलता।</string>
+    <string name="Change_image_success">छवि सफलता बदलें।</string>
+    <string name="Please_choose_gradient_first">कृपया पहले ग्रेडिएंट चुनें</string>
+    <string name="Please_choose_gradient_text_first">कृपया पहले ग्रेडिएंट टेक्स्ट चुनें</string>
+    <string name="Please_choose_pattern_first">कृपया पहले पैटर्न चुनें</string>
+    <string name="You_should_add_text_first">आपको पहले टेक्स्ट जोड़ना चाहिए।</string>
+    <string name="Error">त्रुटि: पुस्तकालय में फोटो दूषित प्रतीत होता है। कृपया जांचें। धन्यवाद!</string>
+    <string name="Export">निर्यात</string>
+    <string name="Unselect">सभी का चयन रद्द</string>
+    <string name="Sample">Sample</string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "846506064088",
+    "project_id": "name-art---stylish-text",
+    "storage_bucket": "name-art---stylish-text.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846506064088:android:5e30b8b0b57eab224fffad",
+        "android_client_info": {
+          "package_name": "com.nameart.maker.stylishfont.art.textonphoto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846506064088-sf0b6kdvrn1kr6iil826rg1vghn81d1u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqTSXmcePUTAT8Pxylx6dyFwJSQdNZ2Ts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846506064088-sf0b6kdvrn1kr6iil826rg1vghn81d1u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

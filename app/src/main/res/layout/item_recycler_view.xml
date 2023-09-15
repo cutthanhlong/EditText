@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.nameart.maker.stylishfont.art.textonphoto.utils.SquareRelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="42dp"
+    android:layout_height="wrap_content"
+    android:layout_marginEnd="4dp"
+    android:orientation="vertical">
+
+    <View
+        android:id="@+id/view"
+        android:layout_width="42dp"
+        android:layout_height="42dp"
+        android:background="@drawable/bo_vien_item_shape" />
+
+    <com.nameart.maker.stylishfont.art.textonphoto.utils.SquareRelativeLayout
+        android:id="@+id/relativeLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginStart="2dp"
+        android:layout_marginTop="2dp"
+        android:layout_marginEnd="2dp"
+        android:layout_marginBottom="2dp"
+        android:background="@color/neutral_trang" />
+
+    <com.nameart.maker.stylishfont.art.textonphoto.utils.SquareImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="5dp" />
+</com.nameart.maker.stylishfont.art.textonphoto.utils.SquareRelativeLayout>

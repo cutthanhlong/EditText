@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Name Art Maker</string>
+    <string name="Edit">Bearbeiten</string>
+    <string name="Editor">Editor</string>
+    <string name="Add_Text">Text</string>
+    <string name="Backgrounds">Hintergrund</string>
+    <string name="Stickers">Aufkleber</string>
+    <string name="Magic_Paint">Magische Farbe</string>
+    <string name="Type_here">Geben Sie hier ein</string>
+    <string name="Paint">Malen</string>
+
+    <string name="Yes">Ja</string>
+    <string name="No">NEIN</string>
+    <string name="Close">Schließen</string>
+    <string name="App_not_found">Anwendung nicht gefunden.</string>
+    <string name="Created_by">Erstellen von</string>
+
+    <string name="erase_msg">Möchten Sie Ihre Arbeit wirklich löschen?</string>
+    <string name="cancel_msg">Möchten Sie diese Arbeit wirklich verlassen?</string>
+    <string name="Font">Schriftart</string>
+    <string name="Gradient">Gradient</string>
+    <string name="Color">Farbe</string>
+    <string name="Pattern">Muster</string>
+    <string name="Shadow">Schatten</string>
+    <string name="image">Bild</string>
+    <string name="Image1">Bild</string>
+    <string name="Exporting_Image...">Bild wird exportiert...</string>
+
+    <string name="Create_New">Erstelle neu</string>
+    <string name="My_Gallery">Meine Gallerie</string>
+    <string name="Setting">Einstellung</string>
+
+    <string name="Language">Sprache</string>
+    <string name="Rate">Rate</string>
+    <string name="Share">Aktie</string>
+    <string name="More_app">Mehr App</string>
+    <string name="About">Um</string>
+    <string name="Item_English">Englisch</string>
+
+    <string name="Edit_Text">Text bearbeiten</string>
+    <string name="Your_gallery_is_empty">Ihre Galerie ist leer</string>
+
+    <string name="Cancle">Stornieren</string>
+    <string name="Ok">OK</string>
+    <string name="Choose_Paint_Color">Wählen Sie Lackfarbe</string>
+
+    <string name="Emojie">Emoticons</string>
+    <string name="Alphabet">Alphabet</string>
+    <string name="Planner">Planer</string>
+    <string name="Love">Liebe</string>
+    <string name="Food">Essen</string>
+    <string name="Holiday">Urlaub</string>
+    <string name="Animal">Tier</string>
+
+    <string name="Line">Linie</string>
+    <string name="Radial">Radial</string>
+    <string name="Sweep">Fegen</string>
+
+    <string name="Normal">Normal</string>
+    <string name="Emboss">Prägen</string>
+    <string name="Deboss">Prägung</string>
+    <string name="Next">Nächste</string>
+    <string name="delete">Löschen</string>
+    <string name="Quit">Aufhören</string>
+    <string name="Image_Saved">Bild gespeichert</string>
+    <string name="get_started">Loslegen</string>
+    <string name="You_can_use_magic">Sie können magische Farbe verwenden, um kreative Effekte für Ihr Design zu erzielen.</string>
+    <string name="You_can_add_favorite">Sie können Lieblingstypografie mit mehreren Schriftarten und kreativen Effekten hinzufügen.</string>
+    <string name="Multiple_Backgrounds">Mehrere Hintergründe</string>
+    <string name="You_can_choose_aesthetic">Sie können ästhetische Hintergründe aus der Galerie des Namens des Kunstmachers auswählen.</string>
+    <string name="this_action_may_contain_advertising">Diese Aktion kann Werbung enthalten</string>
+    <string name="version">Ausführung</string>
+    <string name="Privacy_Policy"><u>Datenschutzerklärung</u></string>
+    <string name="skip"><u>Überspringen</u></string>
+    <string name="delete1">Löschen?</string>
+    <string name="Confirm_Quit">Beenden bestätigen?</string>
+    <string name="are_you">Sind Sie sicher, dass Sie löschen möchten?</string>
+    <string name="Are_you_sure_want_to_quit_app">Möchten Sie die App wirklich beenden?</string>
+    <string name="cancel">Stornieren</string>
+    <string name="delete_success">Erfolg löschen</string>
+    <string name="selected">Wählen Sie Alle</string>
+    <string name="Reset">Zurücksetzen</string>
+    <string name="Back_home">Zurück zuhause</string>
+    <string name="Crop_Image">Bild zuschneiden</string>
+    <string name="all">Alle</string>
+    <string name="Create_Text">Texte erstellen</string>
+    <string name="camera">Kamera</string>
+    <string name="screenshots">Screenshots</string>
+    <string name="downloads">Downloads</string>
+    <string name="Blur">Verwischen</string>
+    <string name="Distance">Distanz</string>
+    <string name="Scale">Skala</string>
+    <string name="Image">Bild</string>
+    <string name="Opacity">Opazität</string>
+    <string name="Select_Image">Bild auswählen</string>
+    <string name="Are_you">Möchten Sie Ihre Zeichnung wirklich zurücksetzen?</string>
+
+    <string name="If_you_enjoy_this_would_youmind_rating_us_on_the_Google_Play_then">Wenn Ihnen dieser Name Art Maker gefällt, \nwürden Sie uns dann bei Google Play bewerten?</string>
+    <string name="Your_opinion_matter_to_us">Ihre Meinung ist uns wichtig</string>
+    <string name="rate_us">Bewerten Sie uns</string>
+    <string name="Not_now">Nicht jetzt</string>
+    <string name="Thankyou">Danke</string>
+    <string name="Send_Email">E-Mail senden</string>
+    <string name="There_is_no">Es gibt kein</string>
+    <string name="thanks_for_watching">Danke fürs zuschauen</string>
+    <string name="Blank_image">Bitte fügen Sie Text oder Aufkleber hinzu.</string>
+    <string name="Not_change_background">Hintergrund nicht ändern</string>
+    <string name="Change_background_gradient_success">Ändern Sie den Erfolg des Hintergrundgradienten.</string>
+    <string name="Change_background_color_success">Erfolg Hintergrundfarbe ändern.</string>
+    <string name="Change_image_success">Image-Erfolg ändern.</string>
+    <string name="Please_choose_gradient_first">Bitte wählen Sie zuerst den Farbverlauf</string>
+    <string name="Please_choose_gradient_text_first">Bitte wählen Sie zuerst Verlaufstext aus</string>
+    <string name="Please_choose_pattern_first">Bitte wählen Sie zuerst das Muster aus</string>
+    <string name="You_should_add_text_first">Sie sollten zuerst Text hinzufügen.</string>
+    <string name="Error">Fehler: Das Foto in der Bibliothek scheint beschädigt zu sein. Überprüfen Sie bitte. Danke schön!</string>
+
+    <string name="Export">Export</string>
+    <string name="Unselect">Auswahl aufheben</string>
+    <string name="Sample">Probe</string>
+</resources>

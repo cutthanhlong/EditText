@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#EDF1FD"
+    android:orientation="vertical">
+
+    <include
+        android:id="@+id/toolbar"
+        layout="@layout/toolbar_my_gallery" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rcvListImg"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginBottom="0dp"
+        android:clipToPadding="false"
+        android:gravity="center"
+        android:paddingHorizontal="12dp"
+        android:paddingTop="16dp"
+        android:paddingBottom="8dp"
+        android:scrollbars="none"
+        app:layoutManager="androidx.recyclerview.widget.GridLayoutManager"
+        app:layout_constraintBottom_toTopOf="@+id/ll_delete"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/toolbar"
+        app:spanCount="4"
+        tools:listitem="@layout/item_my_creation" />
+
+    <LinearLayout
+        android:id="@+id/layoutNoPics"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:visibility="gone"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <ImageView
+            android:id="@+id/img_no_image"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_empty" />
+
+        <TextView
+            android:id="@+id/txt_nopics"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="10dp"
+            android:layout_marginTop="24dp"
+            android:ellipsize="end"
+            android:fontFamily="@font/urbanist_600"
+            android:gravity="center"
+            android:lines="1"
+            android:maxLines="1"
+            android:text="@string/Your_gallery_is_empty"
+            android:textColor="@color/color_BCBCBC"
+            android:textSize="20sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_delete"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/botron_delete_item_my_gallery"
+        android:orientation="vertical"
+        android:visibility="gone"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:id="@+id/clear"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentEnd="true"
+                android:layout_gravity="center"
+                android:layout_marginTop="@dimen/_5sdp"
+                android:paddingHorizontal="@dimen/_10sdp"
+                android:paddingTop="@dimen/_10sdp"
+                android:src="@drawable/ic_delete_my_gallery"
+                android:visibility="visible" />
+
+            <ImageView
+                android:id="@+id/clear_select"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentEnd="true"
+                android:layout_gravity="center"
+                android:layout_marginTop="@dimen/_5sdp"
+                android:paddingHorizontal="@dimen/_10sdp"
+                android:paddingTop="@dimen/_10sdp"
+                android:src="@drawable/ic_delete_my_gallery"
+                android:visibility="gone" />
+        </RelativeLayout>
+
+        <TextView
+            android:id="@+id/delete"
+            style="@style/TextViewBaseToolbar"
+            android:layout_width="match_parent"
+            android:layout_marginTop="@dimen/_4sdp"
+            android:layout_marginBottom="@dimen/_15sdp"
+            android:fontFamily="@font/urbanist_400"
+            android:gravity="center"
+            android:letterSpacing="0.03"
+            android:text="@string/delete"
+            android:textColor="@color/neutral_trang"
+            android:textSize="@dimen/sp16" />
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

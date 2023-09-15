@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Name Art Maker</string>
+    <string name="Edit">编辑</string>
+    <string name="Editor">编辑</string>
+    <string name="Add_Text">文本</string>
+    <string name="Backgrounds">背景</string>
+    <string name="Stickers">贴纸</string>
+    <string name="Magic_Paint">魔术漆</string>
+    <string name="Type_here">在此输入</string>
+    <string name="Paint">画</string>
+
+    <string name="Yes">是的</string>
+    <string name="No">不</string>
+    <string name="Close">关闭</string>
+    <string name="App_not_found">找不到应用程序。</string>
+    <string name="Created_by">创建者</string>
+
+    <string name="erase_msg">您确定要删除您的工作吗？</string>
+    <string name="cancel_msg">您确定要离开这项工作吗？</string>
+    <string name="Font">字体</string>
+    <string name="Gradient">坡度</string>
+    <string name="Color">颜色</string>
+    <string name="Pattern">图案</string>
+    <string name="Shadow">阴影</string>
+    <string name="image">图像</string>
+    <string name="Image1">图像</string>
+    <string name="Exporting_Image...">正在导出图像...</string>
+
+    <string name="Create_New">创建新的</string>
+    <string name="My_Gallery">我的图片库</string>
+    <string name="Setting">环境</string>
+
+    <string name="Language">语言</string>
+    <string name="Rate">速度</string>
+    <string name="Share">分享</string>
+    <string name="More_app">更多应用</string>
+    <string name="About">关于</string>
+    <string name="Item_English">英语</string>
+
+    <string name="Edit_Text">编辑文字</string>
+    <string name="Your_gallery_is_empty">你的画廊是空的</string>
+
+    <string name="Cancle">取消</string>
+    <string name="Ok">好的</string>
+    <string name="Choose_Paint_Color">选择油漆颜色</string>
+
+    <string name="Emojie">表情符号</string>
+    <string name="Alphabet">字母</string>
+    <string name="Planner">规划师</string>
+    <string name="Love">爱</string>
+    <string name="Food">食物</string>
+    <string name="Holiday">假期</string>
+    <string name="Animal">动物</string>
+
+    <string name="Line">线</string>
+    <string name="Radial">径向</string>
+    <string name="Sweep">扫</string>
+
+    <string name="Normal">普通的</string>
+    <string name="Emboss">浮雕</string>
+    <string name="Deboss">凹陷</string>
+    <string name="Next">下一个</string>
+    <string name="delete">删除</string>
+    <string name="Quit">辞职</string>
+    <string name="Image_Saved">图片已保存</string>
+    <string name="get_started">开始</string>
+    <string name="You_can_use_magic">您可以使用魔法涂料为您的设计创造创意效果。</string>
+    <string name="You_can_add_favorite">您可以使用多种字体和创意效果添加最喜欢的版式。</string>
+    <string name="Multiple_Backgrounds">多重背景</string>
+    <string name="You_can_choose_aesthetic">您可以从 name art maker 的画廊中选择美学背景。</string>
+    <string name="this_action_may_contain_advertising">此操作可能包含广告</string>
+    <string name="version">版本</string>
+    <string name="Privacy_Policy"><u>隐私政策</u></string>
+    <string name="skip"><u>跳过</u></string>
+    <string name="delete1">删除？</string>
+    <string name="Confirm_Quit">确认退出？</string>
+    <string name="are_you">你确定你要删除？</string>
+    <string name="Are_you_sure_want_to_quit_app">您确定要退出应用程序吗？</string>
+    <string name="cancel">取消</string>
+    <string name="delete_success">删除成功</string>
+    <string name="selected">全选</string>
+    <string name="Reset">重置</string>
+    <string name="Back_home">回家</string>
+    <string name="Crop_Image">裁剪图像</string>
+    <string name="all">全部</string>
+    <string name="Create_Text">创建文本</string>
+    <string name="camera">相机</string>
+    <string name="screenshots">截图</string>
+    <string name="downloads">下载</string>
+    <string name="Blur">模糊</string>
+    <string name="Distance">距离</string>
+    <string name="Scale">规模</string>
+    <string name="Image">图像</string>
+    <string name="Opacity">不透明度</string>
+    <string name="Select_Image">选择图像</string>
+    <string name="Are_you">您确定要重置绘图吗？</string>
+
+    <string name="If_you_enjoy_this_would_youmind_rating_us_on_the_Google_Play_then">如果您喜欢这个 Name Art Maker，\n您介意在 Google Play 上给我们评分吗？</string>
+    <string name="Your_opinion_matter_to_us">您的意见对我们很重要</string>
+    <string name="rate_us">评价我们</string>
+    <string name="Not_now">现在不要</string>
+    <string name="Thankyou">谢谢</string>
+    <string name="Send_Email">发电子邮件</string>
+    <string name="There_is_no">没有</string>
+    <string name="thanks_for_watching">感谢收看</string>
+    <string name="Blank_image">请添加文字或贴纸。</string>
+    <string name="Not_change_background">不换背景</string>
+    <string name="Change_background_gradient_success">更改背景渐变成功。</string>
+    <string name="Change_background_color_success">更改背景颜色成功。</string>
+    <string name="Change_image_success">改变形象成功。</string>
+    <string name="Please_choose_gradient_first">请先选择渐变</string>
+    <string name="Please_choose_gradient_text_first">请先选择渐变文字</string>
+    <string name="Please_choose_pattern_first">请先选择图案</string>
+    <string name="You_should_add_text_first">您应该先添加文本。</string>
+    <string name="Error">错误：库中的照片似乎已损坏。 请检查。 谢谢你！</string>
+    <string name="Export">出口</string>
+    <string name="Unselect">取消选择</string>
+    <string name="Sample">Sample</string>
+</resources>

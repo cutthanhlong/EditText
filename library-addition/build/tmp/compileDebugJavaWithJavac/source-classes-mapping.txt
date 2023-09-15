@@ -1,0 +1,15 @@
+io/techery/progresshint/addition/ViewUtil.java
+ io.techery.progresshint.addition.ViewUtil
+io/techery/progresshint/addition/BuildConfig.java
+ io.techery.progresshint.addition.BuildConfig
+io/techery/progresshint/addition/ProgressHintScrollController.java
+ io.techery.progresshint.addition.ProgressHintScrollController
+io/techery/progresshint/addition/widget/VerticalSeekBar.java
+ io.techery.progresshint.addition.widget.VerticalSeekBar
+io/techery/progresshint/addition/widget/SeekBar.java
+ io.techery.progresshint.addition.widget.SeekBar
+io/techery/progresshint/addition/HorizontalProgressHintDelegate.java
+ io.techery.progresshint.addition.HorizontalProgressHintDelegate
+io/techery/progresshint/addition/VerticalProgressHintDelegate.java
+ io.techery.progresshint.addition.VerticalProgressHintDelegate
+ io.techery.progresshint.addition.VerticalProgressHintDelegate$VerticalOrientation

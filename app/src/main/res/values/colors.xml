@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#D70054</color>
+    <color name="colorAccentDark">#ac0044</color>
+    <color name="colorPrimary">#ffffffff</color>
+    <color name="colorPrimaryDark">#700630</color>
+
+    <color name="gray">#ff898989</color>
+    <color name="black">#ff000000</color>
+    <color name="white">#ffffff</color>
+    <color name="xanh_dam">#3881F7</color>
+    <color name="neutral_trang">#FCFCFC</color>
+    <color name="neutral_xanh_den">#222B36</color>
+    <color name="color_464646">#464646</color>
+    <color name="color_FEF7F6">#FEF7F6</color>
+    <color name="color_FAF2E5">#FAF2E5</color>
+    <color name="color_F6CB60">#F6CB60</color>
+    <color name="color_8394AF">#8394AF</color>
+    <color name="color_xanh_0C9CED">#0C9CED</color>
+    <color name="color_F5FBFF">#F5FBFF</color>
+    <color name="color_DAD1C2">#DAD1C2</color>
+    <color name="color_EDF1FD">#EDF1FD</color>
+    <color name="color_BCBCBC">#BCBCBC</color>
+    <color name="color_DADADA">#DADADA</color>
+    <color name="color_636363">#636363</color>
+    <color name="color_2C2C2C">#2C2C2C</color>
+    <color name="color_0C9CED">#0C9CED</color>
+    <color name="color_3D87F8">#3D87F8</color>
+    <color name="color_F59C1A">#F59C1A</color>
+    <color name="color_C1C1C1">#C1C1C1</color>
+    <color name="color_text_image">#5C5C5C</color>
+    <color name="color_FFB744">#FFB744</color>
+    <color name="color_222B36">#222B36</color>
+</resources>

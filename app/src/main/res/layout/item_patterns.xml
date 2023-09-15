@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.nameart.maker.stylishfont.art.textonphoto.utils.SquareRelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/neutral_trang"
+    android:orientation="vertical">
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/mcvPattern"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:clickable="true"
+        android:focusable="true"
+        app:cardBackgroundColor="@color/neutral_trang"
+        app:cardCornerRadius="5dp"
+        app:cardElevation="0dp">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <com.nameart.maker.stylishfont.art.textonphoto.utils.SquareImageView
+                android:id="@+id/imgPattern"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+            <ImageView
+                android:id="@+id/imgSelectedPattern"
+                android:visibility="gone"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ic_selected_item_my_gallery"
+                android:layout_alignParentEnd="true"
+                android:paddingTop="4dp"
+                android:paddingEnd="4dp"/>
+        </RelativeLayout>
+    </androidx.cardview.widget.CardView>
+</com.nameart.maker.stylishfont.art.textonphoto.utils.SquareRelativeLayout>

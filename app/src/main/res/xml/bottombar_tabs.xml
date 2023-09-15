@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+    <tab icon="@drawable/ic_font_bottom" id="@+id/tab_fonts" title="@string/Font" />
+    <tab icon="@drawable/ic_color_bottom" id="@+id/tab_colors" title="@string/Color" />
+    <tab icon="@drawable/ic_gradien_bottom" id="@+id/tab_gradients" title="@string/Gradient" />
+    <tab icon="@drawable/ic_pattern_bottom" id="@+id/tab_patterns" title="@string/Pattern" />
+    <tab icon="@drawable/ic_shadown_bottom" id="@+id/tab_shadow" title="@string/Shadow" />
+</tabs>

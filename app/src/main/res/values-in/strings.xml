@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Name Art Maker</string>
+    <string name="Edit">Sunting</string>
+    <string name="Editor">Editor</string>
+    <string name="Add_Text">Teks</string>
+    <string name="Backgrounds">Latar belakang</string>
+    <string name="Stickers">Stiker</string>
+    <string name="Magic_Paint">Cat Ajaib</string>
+    <string name="Type_here">Ketik di sini</string>
+    <string name="Paint">Cat</string>
+
+    <string name="Yes">Ya</string>
+    <string name="No">TIDAK</string>
+    <string name="Close">Menutup</string>
+    <string name="App_not_found">Aplikasi tidak ditemukan.</string>
+    <string name="Created_by">Dibuat oleh</string>
+
+    <string name="erase_msg">Anda yakin ingin menghapus pekerjaan Anda?</string>
+    <string name="cancel_msg">Apakah Anda yakin ingin meninggalkan pekerjaan ini?</string>
+    <string name="Font">Fon</string>
+    <string name="Gradient">Gradien</string>
+    <string name="Color">Warna</string>
+    <string name="Pattern">Pola</string>
+    <string name="Shadow">Bayangan</string>
+    <string name="image">gambar</string>
+    <string name="Image1">Gambar</string>
+    <string name="Exporting_Image...">Mengekspor Gambar...</string>
+
+    <string name="Create_New">Membuat baru</string>
+    <string name="My_Gallery">Galeri Saya</string>
+    <string name="Setting">Pengaturan</string>
+
+    <string name="Language">Bahasa</string>
+    <string name="Rate">Kecepatan</string>
+    <string name="Share">Membagikan</string>
+    <string name="More_app">Aplikasi Lainnya</string>
+    <string name="About">Tentang</string>
+    <string name="Item_English">Bahasa inggris</string>
+
+    <string name="Edit_Text">Sunting Teks</string>
+    <string name="Your_gallery_is_empty">Galeri Anda kosong</string>
+
+    <string name="Cancle">Membatalkan</string>
+    <string name="Ok">OKE</string>
+    <string name="Choose_Paint_Color">Pilih Warna Cat</string>
+
+    <string name="Emojie">Emoji</string>
+    <string name="Alphabet">Alfabet</string>
+    <string name="Planner">Perencana</string>
+    <string name="Love">Cinta</string>
+    <string name="Food">Makanan</string>
+    <string name="Holiday">Hari libur</string>
+    <string name="Animal">Satwa</string>
+
+    <string name="Line">Garis</string>
+    <string name="Radial">Radial</string>
+    <string name="Sweep">Menyapu</string>
+
+    <string name="Normal">Normal</string>
+    <string name="Emboss">Menatah</string>
+    <string name="Deboss">Debos</string>
+    <string name="Next">Berikutnya</string>
+    <string name="delete">Menghapus</string>
+    <string name="Quit">Berhenti</string>
+    <string name="Image_Saved">Gambar Disimpan</string>
+    <string name="get_started">Memulai</string>
+    <string name="You_can_use_magic">Anda dapat menggunakan cat ajaib untuk membuat efek kreatif pada desain Anda.</string>
+    <string name="You_can_add_favorite">Anda dapat menambahkan tipografi favorit dengan banyak font dan efek kreatif.</string>
+    <string name="Multiple_Backgrounds">Banyak Latar Belakang</string>
+    <string name="You_can_choose_aesthetic">Anda dapat memilih latar belakang estetika dari galeri nama pembuat seni.</string>
+    <string name="this_action_may_contain_advertising">Tindakan ini mungkin berisi iklan</string>
+    <string name="version">Versi: kapan</string>
+    <string name="Privacy_Policy"><u>Kebijakan Privasi</u></string>
+    <string name="skip"><u>Lewati</u></string>
+    <string name="delete1">Menghapus?</string>
+    <string name="Confirm_Quit">Konfirmasi Keluar?</string>
+    <string name="are_you">Anda yakin ingin menghapus?</string>
+    <string name="Are_you_sure_want_to_quit_app">Anda yakin ingin keluar dari aplikasi?</string>
+    <string name="cancel">Membatalkan</string>
+    <string name="delete_success">Hapus sukses</string>
+    <string name="selected">Pilih Semua</string>
+    <string name="Reset">Mengatur ulang</string>
+    <string name="Back_home">Kembali ke rumah</string>
+    <string name="Crop_Image">Pangkas Gambar</string>
+    <string name="all">Semua</string>
+    <string name="Create_Text">Buat Teks</string>
+    <string name="camera">Kamera</string>
+    <string name="screenshots">Tangkapan layar</string>
+    <string name="downloads">Download</string>
+    <string name="Blur">Mengaburkan</string>
+    <string name="Distance">Jarak</string>
+    <string name="Scale">Skala</string>
+    <string name="Image">Gambar</string>
+    <string name="Opacity">Kegelapan</string>
+    <string name="Select_Image">Pilih gambar</string>
+    <string name="Are_you">Yakin ingin menyetel ulang gambar Anda?</string>
+
+    <string name="If_you_enjoy_this_would_youmind_rating_us_on_the_Google_Play_then">Jika Anda menikmati Name Art Maker ini, maukah \nAnda menilai kami di Google Play?</string>
+    <string name="Your_opinion_matter_to_us">Pendapat Anda penting bagi kami</string>
+    <string name="rate_us">Nilai Kami</string>
+    <string name="Not_now">Tidak sekarang</string>
+    <string name="Thankyou">Terima kasih</string>
+    <string name="Send_Email">Mengirim email</string>
+    <string name="There_is_no">Tidak ada</string>
+    <string name="thanks_for_watching">Terima kasih telah menonton</string>
+    <string name="Blank_image">Harap tambahkan teks atau stiker.</string>
+    <string name="Not_change_background">Tidak mengubah latar belakang</string>
+    <string name="Change_background_gradient_success">Ubah keberhasilan gradien latar belakang.</string>
+    <string name="Change_background_color_success">Ubah warna latar berhasil.</string>
+    <string name="Change_image_success">Ubah kesuksesan gambar.</string>
+    <string name="Please_choose_gradient_first">Silakan pilih gradien terlebih dahulu</string>
+    <string name="Please_choose_gradient_text_first">Silakan pilih teks gradien terlebih dahulu</string>
+    <string name="Please_choose_pattern_first">Silahkan pilih pola terlebih dahulu</string>
+    <string name="You_should_add_text_first">Anda harus menambahkan teks terlebih dahulu.</string>
+    <string name="Error">Kesalahan: Foto di perpustakaan tampaknya rusak. Silakan periksa. Terima kasih!</string>
+    <string name="Export">Ekspor</string>
+    <string name="Unselect">Batalkan pilihan</string>
+    <string name="Sample">Sampel</string>
+</resources>

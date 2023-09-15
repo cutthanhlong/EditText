@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.nameart.maker.stylishfont.art.textonphoto.utils.SquareRelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/color_EDF1FD"
+    android:orientation="vertical">
+
+    <com.google.android.material.card.MaterialCardView
+        android:id="@+id/mcvSticker"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:clickable="true"
+        android:focusable="true"
+        app:cardBackgroundColor="@color/color_EDF1FD"
+        app:cardCornerRadius="5dp"
+        app:cardElevation="0dp">
+        <com.nameart.maker.stylishfont.art.textonphoto.utils.SquareImageView
+            android:id="@+id/imgSticker"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+    </com.google.android.material.card.MaterialCardView>
+</com.nameart.maker.stylishfont.art.textonphoto.utils.SquareRelativeLayout>

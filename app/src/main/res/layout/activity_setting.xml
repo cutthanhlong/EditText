@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color_FEF7F6">
+
+    <include
+        android:id="@+id/toolbar"
+        layout="@layout/item_toolbar" />
+
+    <LinearLayout
+        android:id="@+id/llLanguage"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="?android:attr/selectableItemBackground"
+        android:clickable="true"
+        android:focusable="true"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:paddingHorizontal="10dp"
+        android:paddingVertical="20dp"
+        app:layout_constraintTop_toBottomOf="@+id/toolbar"
+        tools:layout_editor_absoluteX="10dp">
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/imgLanguage"
+            android:layout_width="0dp"
+            android:layout_weight="0.9"
+            android:layout_height="40dp"
+            android:layout_marginEnd="20dp"
+            android:src="@drawable/ic_language_setting" />
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_weight="9.1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content">
+
+            <TextView
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toStartOf="@+id/lnLayout"
+                android:layout_height="wrap_content"
+                android:textSize="16sp"
+                android:textColor="@color/color_464646"
+                android:layout_width="0dp"
+                android:fontFamily="@font/urbanist_400"
+                android:text="@string/Language" />
+
+            <LinearLayout
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintBottom_toBottomOf="parent"
+                android:id="@+id/lnLayout"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:gravity="end">
+
+                <TextView
+                    android:id="@+id/tv_text_language"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:fontFamily="@font/urbanist_400"
+                    android:text="@string/Item_English"
+                    android:textColor="@color/neutral_xanh_den"
+                    android:textSize="16sp" />
+
+                <androidx.appcompat.widget.AppCompatImageView
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:layout_gravity="center"
+                    android:padding="4dp"
+                    android:src="@drawable/ic_right_setting" />
+            </LinearLayout>
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </LinearLayout>
+
+    <View
+        android:id="@+id/v1"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginHorizontal="16dp"
+        android:background="#9E9E9E"
+        app:layout_constraintTop_toBottomOf="@+id/llLanguage" />
+
+    <LinearLayout
+        android:id="@+id/llRate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="?android:attr/selectableItemBackground"
+        android:clickable="true"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:paddingHorizontal="10dp"
+        android:paddingVertical="20dp"
+        android:weightSum="10"
+        app:layout_constraintTop_toBottomOf="@+id/v1">
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:layout_width="0dp"
+            android:layout_height="40dp"
+            android:layout_marginEnd="20dp"
+            android:layout_weight="0.9"
+            android:src="@drawable/ic_rate_setting" />
+
+        <TextView
+            style="@style/TextToolBar"
+            android:layout_width="0dp"
+            android:layout_weight="9.1"
+            android:fontFamily="@font/urbanist_400"
+            android:text="@string/Rate" />
+    </LinearLayout>
+
+    <View
+        android:id="@+id/v2"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginHorizontal="16dp"
+        android:background="#9E9E9E"
+        app:layout_constraintTop_toBottomOf="@+id/llRate" />
+
+    <LinearLayout
+        android:id="@+id/llShare"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="?android:attr/selectableItemBackground"
+        android:clickable="true"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:paddingHorizontal="10dp"
+        android:paddingVertical="20dp"
+        android:weightSum="10"
+        app:layout_constraintTop_toBottomOf="@+id/v2">
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:layout_width="0dp"
+            android:layout_height="40dp"
+            android:layout_marginEnd="20dp"
+            android:layout_weight="0.9"
+            android:src="@drawable/ic_share_setting" />
+
+        <TextView
+            style="@style/TextToolBar"
+            android:layout_width="0dp"
+            android:layout_weight="9.1"
+            android:fontFamily="@font/urbanist_400"
+            android:text="@string/Share" />
+    </LinearLayout>
+
+    <View
+        android:id="@+id/v3"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginHorizontal="16dp"
+        android:background="#9E9E9E"
+        app:layout_constraintTop_toBottomOf="@+id/llShare" />
+
+    <LinearLayout
+        android:id="@+id/llMoreApp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="?android:attr/selectableItemBackground"
+        android:clickable="true"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:paddingHorizontal="10dp"
+        android:paddingVertical="20dp"
+        android:weightSum="10"
+        app:layout_constraintTop_toBottomOf="@+id/v3">
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:layout_width="0dp"
+            android:layout_height="40dp"
+            android:layout_marginEnd="20dp"
+            android:layout_weight="0.9"
+            android:src="@drawable/ic_more_app_setting" />
+
+        <TextView
+            style="@style/TextToolBar"
+            android:layout_width="0dp"
+            android:layout_weight="9.1"
+            android:fontFamily="@font/urbanist_400"
+            android:text="@string/More_app" />
+    </LinearLayout>
+
+    <View
+        android:id="@+id/v4"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginHorizontal="16dp"
+        android:background="#9E9E9E"
+        app:layout_constraintTop_toBottomOf="@+id/llMoreApp" />
+
+    <LinearLayout
+        android:id="@+id/llAbout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="?android:attr/selectableItemBackground"
+        android:clickable="true"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:paddingHorizontal="10dp"
+        android:paddingVertical="20dp"
+        app:layout_constraintTop_toBottomOf="@+id/v4"
+        tools:layout_editor_absoluteX="10dp">
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:layout_width="0dp"
+            android:layout_height="40dp"
+            android:layout_marginEnd="20dp"
+            android:layout_weight="0.9"
+            android:src="@drawable/ic_about_setting" />
+
+        <TextView
+            style="@style/TextToolBar"
+            android:layout_width="0dp"
+            android:layout_weight="8.1"
+            android:fontFamily="@font/urbanist_400"
+            android:text="@string/About" />
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:gravity="end">
+
+            <androidx.appcompat.widget.AppCompatImageView
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_gravity="center"
+                android:padding="4dp"
+                android:src="@drawable/ic_right_setting" />
+        </LinearLayout>
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

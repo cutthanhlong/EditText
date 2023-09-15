@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/clDropDownSpinner"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/botron_spinner_bg_gradient">
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cvName1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="2dp"
+        app:cardBackgroundColor="@color/neutral_trang"
+        app:cardCornerRadius="3dp"
+        app:cardElevation="0dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:id="@+id/txtName1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="2dp"
+            android:background="@drawable/button_gradient_bg"
+            android:ellipsize="end"
+            android:fontFamily="@font/urbanist_500"
+            android:lines="1"
+            android:maxLines="1"
+            android:paddingHorizontal="16dp"
+            android:paddingVertical="6dp"
+            android:text="@string/Emboss"
+            android:textColor="@color/color_2C2C2C"
+            android:textSize="12sp" />
+    </androidx.cardview.widget.CardView>
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="2dp"
+        app:cardBackgroundColor="@color/neutral_trang"
+        app:cardCornerRadius="3dp"
+        app:cardElevation="0dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/cvName1">
+
+        <TextView
+            android:id="@+id/txtName2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="2dp"
+            android:layout_marginBottom="2dp"
+            android:background="@drawable/button_gradient_bg"
+            android:ellipsize="end"
+            android:fontFamily="@font/urbanist_500"
+            android:lines="1"
+            android:maxLines="1"
+            android:paddingHorizontal="16dp"
+            android:paddingVertical="6dp"
+            android:text="@string/Deboss"
+            android:textColor="@color/color_2C2C2C"
+            android:textSize="12sp" />
+    </androidx.cardview.widget.CardView>
+</androidx.constraintlayout.widget.ConstraintLayout>

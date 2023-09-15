@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/recipe"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    app:cardBackgroundColor="#FEF7F6"
+    app:cardCornerRadius="5dp"
+    app:cardElevation="2dp"
+    app:rippleColor="#00000000"
+    app:strokeColor="#DAD1C2"
+    app:strokeWidth="1dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="?actionBarSize">
+
+        <TextView
+            android:id="@+id/font_sample"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_centerInParent="true"
+            android:gravity="center"
+            android:padding="5.0dip"
+            android:text="@string/Sample"
+            android:textColor="@color/gray"
+            android:textSize="20sp" />
+    </RelativeLayout>
+</com.google.android.material.card.MaterialCardView>
